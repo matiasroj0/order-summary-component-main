@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: (https://quiet-queijadas-87de37.netlify.app/)
+- Live Site URL: https://quiet-queijadas-87de37.netlify.app/
 
 ### Built with
 
