@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: https://delightful-melomakarona-18895d.netlify.app/
+- Live Site URL: https://quiet-queijadas-87de37.netlify.app/
 
 ### Built with
 
@@ -18,4 +18,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@matiasroj0](https://www.frontendmentor.io/profile/matiasroj0)
